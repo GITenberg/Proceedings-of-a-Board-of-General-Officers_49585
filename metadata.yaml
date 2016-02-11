@@ -1,0 +1,29 @@
+_repo: Proceedings-of-a-Board-of-General-Officers_49585
+contributor:
+  other_contributors:
+  - agent_name: Defendant
+    gutenberg_agent_id: '45427'
+    url: http://www.gutenberg.org/2009/agents/45427
+  - agent_name: Andre, Major John
+    gutenberg_agent_id: '45426'
+    url: http://www.gutenberg.org/2009/agents/45426
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2015-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Proceedings of a Board of General Officers
+url: http://www.gutenberg.org/ebooks/49585
